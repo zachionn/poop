@@ -1,0 +1,138 @@
+{
+  "name": "Girly Light Theme",
+  "description": "A light and girly theme with light blue, light pink, and light purple colors.",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "seregonwar",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_SECONDARY": [
+      "#FFB6C1",
+      "#FFB6C1"
+    ],
+    "NORMAL_TEXT": [
+      "#4B0082",
+      "#4B0082"
+    ],
+    "TEXT_MUTED": [
+      "#800080",
+      "#800080"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#87CEFA",
+      "#87CEFA"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#ADD8E6",
+      "#ADD8E6"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#C0C0C0",
+      "#C0C0C0"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#D3D3D3",
+      "#D3D3D3"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#87CEFA",
+      "#87CEFA"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#FFC0CB",
+      "#FFC0CB"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#E6E6FA",
+      "#E6E6FA"
+    ],
+    "TERTIARY_BACKGROUND": [
+      "#FFDAB9",
+      "#FFDAB9"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#DCD0FF",
+      "#DCD0FF"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#F0FFF0",
+      "#F0FFF0"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#AFEEEE",
+      "#AFEEEE"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#E0FFFF",
+      "#E0FFFF"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#FFF0F5",
+      "#FFF0F5"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(135, 206, 250, 0.6)",
+      "hsla(203, 89%, 50%, 0.6)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 182, 193, 0.3)",
+      "hsla(348, 100%, 88%, 0.3)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "rgba(221, 211, 255, 0.6)",
+      "hsla(248, 89%, 95%, 0.6)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#EE82EE",
+      "hsla(280, 76%, 64%, 0.8)"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#D8BFD8",
+      "#D8BFD8"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#FFDEAD",
+      "#FFDEAD"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#DDA0DD",
+      "#DDA0DD"
+    ],
+    "TEXT_LINK": [
+      "#9370DB",
+      "#9370DB"
+    ],
+    "KEYBOARD": [
+      "#BA55D3",
+      "#BA55D3"
+    ]
+  },
+  "colors": {
+    "PRIMARY_DARK": "#800080",
+    "PRIMARY_DARK_100": "#C71585",
+    "PRIMARY_DARK_200": "#DB7093",
+    "PRIMARY_DARK_300": "#FFC0CB",
+    "PRIMARY_DARK_360": "#FFB6C1",
+    "PRIMARY_DARK_400": "#FF69B4",
+    "PRIMARY_DARK_500": "#FF1493",
+    "PRIMARY_DARK_600": "#DB7093",
+    "PRIMARY_DARK_630": "#FFA07A",
+    "PRIMARY_DARK_700": "#FFC0CB",
+    "PRIMARY_DARK_800": "#FFC0CB",
+    "BRAND_NEW": "#FF69B4",
+    "STATUS_RED": "#FF6347",
+    "STATUS_GREEN_600": "#ADFF2F",
+    "YELLOW_STATE": "#FFFF00"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#A9A9A9"
+  },
+  "background": {
+    "blur": 0.5,
+    "url": "background photo link here",
+    "alpha": 1.0
+  }
+}
