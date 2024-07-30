@@ -1,0 +1,141 @@
+{
+  "name": "Outdoors Theme",
+  "description": "A nature-inspired theme with sky blue, grass green, and white colors.",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "seregonwar",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#87CEEB",
+      "#87CEEB"
+    ],
+    "HEADER_SECONDARY": [
+      "#87CEEB",
+      "#87CEEB"
+    ],
+    "NORMAL_TEXT": [
+      "#000000",
+      "#000000"
+    ],
+    "TEXT_MUTED": [
+      "#000000",
+      "#000000"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#87CEEB",
+      "#87CEEB"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#ADD8E6",
+      "#ADD8E6"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#87CEEB",
+      "#87CEEB"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#D3D3D3",
+      "#D3D3D3"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#87CEEB",
+      "#87CEEB"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#90EE90",
+      "#90EE90"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "TERTIARY_BACKGROUND": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#87CEEB",
+      "#87CEEB"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#87CEEB",
+      "#87CEEB"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#90EE90",
+      "#90EE90"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(135, 206, 235, 0.5)",
+      "hsla(197, 72%, 81%, 0.5)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(135, 206, 235, 0.5)",
+      "hsla(197, 72%, 80%, 0.5)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0.00)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#000000",
+      "hsla(0, 0%, 0%, 0.0)"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.0)",
+      "#000000"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#87CEEB",
+      "#87CEEB"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#000000",
+      "#000000"
+    ],
+    "TEXT_LINK": [
+      "#000000",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#C0C0C0",
+      "#C0C0C0"
+    ]
+  },
+  "colors": {
+    "PRIMARY_DARK": "#87CEEB",
+    "PRIMARY_DARK_100": "#87CEEB",
+    "PRIMARY_DARK_200": "#87CEEB",
+    "PRIMARY_DARK_300": "#87CEEB",
+    "PRIMARY_DARK_360": "#87CEEB",
+    "PRIMARY_DARK_400": "#87CEEB",
+    "PRIMARY_DARK_500": "#87CEEB",
+    "PRIMARY_DARK_600": "#87CEEB",
+    "PRIMARY_DARK_630": "#87CEEB",
+    "PRIMARY_DARK_700": "#87CEEB",
+    "PRIMARY_DARK_800": "#87CEEB",
+    "BRAND_NEW": "#87CEEB",
+    "STATUS_RED": "#87CEEB",
+    "STATUS_GREEN_600": "#87CEEB",
+    "YELLOW_STATE": "#87CEEB"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#000000"
+  },
+  "background": {
+    "blur": 0.5,
+    "url": "https://is2.4chan.org/w/1663624889985889.jpg",
+    "alpha": 1.0
+  }
