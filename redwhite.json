@@ -1,0 +1,138 @@
+{
+  "name": "Light Red Accents",
+  "description": "Light mode theme with red highlights and accents",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "seregonwar",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_SECONDARY": [
+      "#FF0000",
+      "#FF0000"
+    ],
+    "NORMAL_TEXT": [
+      "#000000",
+      "#000000"
+    ],
+    "TEXT_MUTED": [
+      "#808080",
+      "#808080"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#FF0000",
+      "#FF0000"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#FF4500",
+      "#FF4500"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FF6347",
+      "#FF6347"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#C0C0C0",
+      "#C0C0C0"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#F0F0F0",
+      "#F0F0F0"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#E8E8E8",
+      "#E8E8E8"
+    ],
+    "TERTIARY_BACKGROUND": [
+      "#D3D3D3",
+      "#D3D3D3"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#FF0000",
+      "#FF0000"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#F5F5F5",
+      "#F5F5F5"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#F0F0F0",
+      "#F0F0F0"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#FF0000",
+      "#FF0000"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#FF0000",
+      "#FF0000"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "transparent"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#FF0000",
+      "hsla(0, 0%, 0%, 0.0)"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(255, 0, 0, 0.1)",
+      "#FF0000"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "TEXT_LINK": [
+      "#FF0000",
+      "#FF0000"
+    ],
+    "KEYBOARD": [
+      "#000000",
+      "#000000"
+    ]
+  },
+  "colors": {
+    "PRIMARY_DARK": "#000000",
+    "PRIMARY_DARK_100": "#000000",
+    "PRIMARY_DARK_200": "#000000",
+    "PRIMARY_DARK_300": "#000000",
+    "PRIMARY_DARK_360": "#000000",
+    "PRIMARY_DARK_400": "#000000",
+    "PRIMARY_DARK_500": "#000000",
+    "PRIMARY_DARK_600": "#000000",
+    "PRIMARY_DARK_630": "#000000",
+    "PRIMARY_DARK_700": "#000000",
+    "PRIMARY_DARK_800": "#000000",
+    "BRAND_NEW": "#000000",
+    "STATUS_RED": "#FF0000",
+    "STATUS_GREEN_600": "#000000",
+    "YELLOW_STATE": "#000000"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#000000"
+  },
+  "background": {
+    "blur": 0.5,
+    "url": "background photo link here",
+    "alpha": 1.0
+  }
+}
