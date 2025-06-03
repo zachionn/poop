@@ -1,4 +1,3 @@
-// plugin.js
 module.exports = {
   onSendMessage(message) {
     if (!message || typeof message !== 'string') return message;
