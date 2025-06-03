@@ -1,0 +1,7 @@
+{
+  "name": "AutoBoldDesu",
+  "description": "Automatically bolds messages and appends 'desu'",
+  "author": "Zach",
+  "version": "1.0.0",
+  "main": "plugin.js"
+}
